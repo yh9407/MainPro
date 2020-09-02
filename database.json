@@ -1,0 +1,8 @@
+{
+  "host": "management-tutorial.cohjyjh51jft.ap-northeast-2.rds.amazonaws.com",
+  "user": "user",
+  "password": "simegats1004!",
+  "port": "3306",
+  "database": "project",
+  "dateStrings": "date"
+}
